@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/src/haptic/SDL_haptic.c \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/src/haptic/../SDL_internal.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/src/haptic/../dynapi/SDL_dynapi.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_config.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_platform.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/begin_code.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/close_code.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_config_iphoneos.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/src/haptic/SDL_syshaptic.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_haptic.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_stdinc.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_error.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_joystick.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/src/haptic/SDL_haptic_c.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/src/haptic/../joystick/SDL_joystick_c.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/src/haptic/../joystick/../SDL_internal.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_gamecontroller.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_rwops.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_assert.h

@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/src/render/opengles2/SDL_shaders_gles2.c \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/src/render/opengles2/../../SDL_internal.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/src/render/opengles2/../../dynapi/SDL_dynapi.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_config.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_platform.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/begin_code.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/close_code.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_config_iphoneos.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_video.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_stdinc.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_pixels.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_endian.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_rect.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_error.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_rwops.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_surface.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_blendmode.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/include/SDL_opengles2.h \
+  /Users/LocNguyen/Desktop/DataSci/HAR-data-collection/build/sdl2/x86_64/SDL-7cc4fc886d9e/src/render/opengles2/SDL_shaders_gles2.h
